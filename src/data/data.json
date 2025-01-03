@@ -1,0 +1,27 @@
+[
+    {
+        "countryCode": "VN",
+        "countryName": "Vietnam",
+        "capitalCity": "Hanoi"
+    },
+    {
+        "countryCode": "US",
+        "countryName": "United States",
+        "capitalCity": "Washington, D.C."
+    },
+    {
+        "countryCode": "FR",
+        "countryName": "France",
+        "capitalCity": "Paris"
+    },
+    {
+        "countryCode": "JP",
+        "countryName": "Japan",
+        "capitalCity": "Tokyo"
+    },
+    {
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "capitalCity": "Rome"
+    }
+]
