@@ -1,5 +1,5 @@
 const ListDataNoSearch = ({ data, handleDelete, search, handleEdit }) => {
-    const newData = data.filter((item) => item.countryName.includes(search));
+    const newData = data.filter((item) => item.countryName.toLowerCase().includes(search.toLowerCase()));
 
     return newData.map((item, index) => (
         <tr key={index} onClick={(e) => handleEdit(index)}>
